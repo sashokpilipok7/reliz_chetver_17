@@ -125,6 +125,11 @@ main p {
   article {
     margin-top: 20px;
     width: 48%;
+    background-image: linear-gradient(to bottom, yellow, blue);
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    box-sizing: border-box;
   }
 }
 
