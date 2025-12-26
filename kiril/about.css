@@ -37,11 +37,15 @@ header {
 }
 .comanda {
   text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 
 .comanda1 {
   width: 600px;
   height: 300px;
+  margin: 20px auto;
+  display: block;
 }
 .footer {
   padding: 40px 20px;
@@ -85,4 +89,8 @@ header {
 }
 .footer img {
   max-width: 120px;
+}
+
+h2 {
+  text-align: center;
 }
