@@ -1,0 +1,159 @@
+body {
+  font-family: sans-serif;
+}
+
+header img {
+  width: 950px;
+}
+
+header {
+  background-image: url('https://learn.logikaschool.com/uploads/student/5753798/69286cb095f62.png');
+  width: 100%;
+  height: 450px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  color: white;
+  justify-content: center;
+  display: flex;
+  font-size: 64px;
+  text-align: center;
+}
+
+.woter {
+  width: 45%;
+  height: 250px;
+}
+
+.vlad {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+h2 {
+  font-size: 35px;
+  text-align: center;
+}
+
+.shop {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  gap: 20px;
+}
+
+.dok {
+  width: 400px;
+  height: 500px;
+}
+
+.fiq {
+  width: 400px;
+  height: 500px;
+}
+
+.pit {
+  width: 400px;
+  height: 500px;
+}
+
+.start {
+  gap: 20px;
+  display: flex;
+  align-items: center;
+  padding: 50px;
+}
+
+.MEM {
+  width: 500px;
+  height: 350px;
+  border-radius: 900px;
+}
+
+.byyyyy {
+  width: 250px;
+  height: 350px;
+  border-radius: 900px;
+}
+
+.lili {
+  display: flex;
+  align-items: center;
+  padding: 50px;
+}
+
+.ky {
+  max-width: 650px;
+  height: 500px;
+  left: 305px;
+  margin: auto;
+  display: block;
+  margin-bottom: 40px;
+}
+
+.footer {
+  padding: 40px 20px;
+  background-color: #212529;
+  color: white;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.footer-col {
+  flex: 1;
+  min-width: 200px;
+  margin-bottom: 20px;
+}
+
+.footer h4 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 18px;
+  opacity: 0.8;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer a:hover {
+  color: #ccc;
+}
+
+.footer img {
+  max-width: 150px;
+}
+
+.soptekst {
+  color: blue;
+  font-size: 26px;
+}
+
+p {
+  font-size: 23px;
+}
+
+section {
+  margin: 20px 20px;
+}
+
+.name {
+  font-size: 28px;
+  font-weight: bold;
+}
