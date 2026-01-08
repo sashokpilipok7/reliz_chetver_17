@@ -25,6 +25,20 @@ h1 {
   border: 2px solid white;
 }
 
+#cooperate {
+  margin: 40px 0;
+  text-align: center;
+}
+
+#ouremployees {
+  text-align: center;
+}
+
+li,
+ul {
+  list-style: none;
+}
+
 h8 {
   background-color: #2b2b2b;
   border: 2px solid white;
@@ -37,10 +51,25 @@ h9 {
   color: white;
 }
 
-p8 {
+#ouremployees {
   background-color: #2b2b2b;
   border: 2px solid white;
   color: white;
+  display: inline-block;
+  padding: 7px;
+}
+
+#gifts {
+  background-color: #2b2b2b;
+  border: 2px solid white;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  padding: 7px;
+}
+
+.gifts {
+  text-align: center;
 }
 
 nav a {
@@ -100,7 +129,8 @@ li {
 
 .photo {
   width: 200px;
-  height: 200px;
+  height: 240px;
+  object-fit: cover;
   border: 3px solid white;
 }
 
